@@ -102,7 +102,8 @@ set mouse=a
 " Enable clipboard copy paste. If it is not working
 " just install gvim (even if you don't use it
 " to install de dependencies
-set clipboard=unnamedplus
+#set clipboard=unnamedplus
+set clipboard=unnamed # mac
 
 set list
 set listchars=tab:>.,trail:~,extends:>,precedes:<
