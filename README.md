@@ -2,6 +2,8 @@
 
 Minhas configurações pessoais. Cada ferramenta tem sua pasta com um `install.sh`.
 
+As configs antigas de vim e fish (até 2020) estão no histórico: `git show 31bf3dd:vimrc/vimrc`.
+
 ```sh
 git clone git@github.com:gilvanalbino/dotfiles.git ~/dotfiles
 ~/dotfiles/tmux/install.sh
